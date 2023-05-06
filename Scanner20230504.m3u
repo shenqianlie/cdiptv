@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U name="cdiptv"
 #EXTINF:-1 ,CCTV9
 rtp://239.93.0.2:5140
 #EXTINF:-1 ,金鹰卡通
