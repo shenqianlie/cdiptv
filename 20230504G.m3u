@@ -129,7 +129,7 @@ rtp://239.93.0.104:5140
 rtp://239.93.0.118:2191
 #EXTINF:-1 group-title="港澳",星空卫视
 rtp://239.93.0.156:2193
-#EXTINF:-1 group-title="港澳",channel V
+#EXTINF:-1 group-title="港澳",Channel [V]
 rtp://239.93.0.157:2194
 #EXTINF:-1 group-title="港澳",凤凰中文
 rtp://239.93.0.162:2192
@@ -139,7 +139,7 @@ rtp://239.93.1.4:2191
 rtp://239.93.1.9:2192
 #EXTINF:-1 group-title="港澳",星空卫视
 rtp://239.93.1.10:2193
-#EXTINF:-1 group-title="港澳",channel V
+#EXTINF:-1 group-title="港澳",Channel [V]
 rtp://239.93.1.7:2194
 #EXTINF:-1 group-title="四川",CDTV1
 rtp://239.93.1.58:5140
