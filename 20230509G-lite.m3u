@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U name="cd-telecom-iptv"
 #EXTINF:-1 group-title="中央",CCTV-10高清
 rtp://239.93.1.28:5140
 #EXTINF:-1 group-title="中央",CCTV-11高清
