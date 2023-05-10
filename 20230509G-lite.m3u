@@ -1,18 +1,4 @@
 #EXTM3U name="cd-telecom-iptv"
-#EXTINF:-1 group-title="中央",CCTV-10高清
-rtp://239.93.1.28:5140
-#EXTINF:-1 group-title="中央",CCTV-11高清
-rtp://239.93.0.102:5140
-#EXTINF:-1 group-title="中央",CCTV-12高清
-rtp://239.93.1.30:8124
-#EXTINF:-1 group-title="中央",CCTV-13高清
-rtp://239.93.0.66:5140
-#EXTINF:-1 group-title="中央",CCTV-14少儿高清
-rtp://239.93.1.29:6000
-#EXTINF:-1 group-title="中央",CCTV-15高清
-rtp://239.93.0.103:5140
-#EXTINF:-1 group-title="中央",CCTV-17高清
-rtp://239.93.0.92:5140
 #EXTINF:-1 group-title="中央",CCTV-1高清
 rtp://239.93.0.184:5140
 #EXTINF:-1 group-title="中央",CCTV-2高清
@@ -33,15 +19,29 @@ rtp://239.93.1.67:5140
 rtp://239.93.42.39:5140
 #EXTINF:-1 group-title="中央",CCTV-9高清
 rtp://239.93.1.24:5140
+#EXTINF:-1 group-title="中央",CCTV-10高清
+rtp://239.93.1.28:5140
+#EXTINF:-1 group-title="中央",CCTV-11高清
+rtp://239.93.0.102:5140
+#EXTINF:-1 group-title="中央",CCTV-12高清
+rtp://239.93.1.30:8124
+#EXTINF:-1 group-title="中央",CCTV-13高清
+rtp://239.93.0.66:5140
+#EXTINF:-1 group-title="中央",CCTV-14少儿高清
+rtp://239.93.1.29:6000
+#EXTINF:-1 group-title="中央",CCTV-15高清
+rtp://239.93.0.103:5140
 #EXTINF:-1 group-title="中央",CCTV16奥林匹克4K
 rtp://239.93.42.54:5140
+#EXTINF:-1 group-title="中央",CCTV-17高清
+rtp://239.93.0.92:5140
 #EXTINF:-1 group-title="中央",CETV-1高清
 rtp://239.93.1.111:5140
 #EXTINF:-1 group-title="中央",CETV-2
 rtp://239.93.0.113:5140
 #EXTINF:-1 group-title="中央",CETV-4
 rtp://239.93.0.50:5140
-#EXTINF:-1 group-title="中央",CETV4
+#EXTINF:-1 group-title="中央",CETV-4
 rtp://239.93.0.133:5140
 #EXTINF:-1 group-title="港澳",凤凰中文
 rtp://239.93.0.162:2192
