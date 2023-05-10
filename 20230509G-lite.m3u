@@ -35,7 +35,7 @@ rtp://239.93.0.103:5140
 rtp://239.93.42.54:5140
 #EXTINF:-1 group-title="中央",CCTV17
 rtp://239.93.0.92:5140
-#EXTINF:-1 group-title="中央",CETV1
+#EXTINF:-1 group-title="中央",中国教育1台
 rtp://239.93.1.111:5140
 #EXTINF:-1 group-title="中央",CETV2
 rtp://239.93.0.113:5140
