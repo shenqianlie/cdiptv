@@ -1,45 +1,45 @@
 #EXTM3U name="cd-telecom-iptv"
-#EXTINF:-1 group-title="中央",CCTV-1高清
+#EXTINF:-1 group-title="中央",CCTV1
 rtp://239.93.0.184:5140
-#EXTINF:-1 group-title="中央",CCTV-2高清
+#EXTINF:-1 group-title="中央",CCTV2
 rtp://239.93.1.23:6000
-#EXTINF:-1 group-title="中央",CCTV-3高清
+#EXTINF:-1 group-title="中央",CCTV3
 rtp://239.93.1.11:2223
-#EXTINF:-1 group-title="中央",CCTV-4高清
+#EXTINF:-1 group-title="中央",CCTV4
 rtp://239.93.1.105:5140
-#EXTINF:-1 group-title="中央",CCTV-5高清
+#EXTINF:-1 group-title="中央",CCTV5
 rtp://239.93.42.37:5140
-#EXTINF:-1 group-title="中央",CCTV-5＋高清
+#EXTINF:-1 group-title="中央",CCTV5+
 rtp://239.93.1.36:8004
-#EXTINF:-1 group-title="中央",CCTV-6高清
+#EXTINF:-1 group-title="中央",CCTV6
 rtp://239.93.1.13:2226
-#EXTINF:-1 group-title="中央",CCTV-7高清
+#EXTINF:-1 group-title="中央",CCTV7
 rtp://239.93.1.67:5140
-#EXTINF:-1 group-title="中央",CCTV-8高清
+#EXTINF:-1 group-title="中央",CCTV8
 rtp://239.93.42.39:5140
-#EXTINF:-1 group-title="中央",CCTV-9高清
+#EXTINF:-1 group-title="中央",CCTV9
 rtp://239.93.1.24:5140
-#EXTINF:-1 group-title="中央",CCTV-10高清
+#EXTINF:-1 group-title="中央",CCTV10
 rtp://239.93.1.28:5140
-#EXTINF:-1 group-title="中央",CCTV-11高清
+#EXTINF:-1 group-title="中央",CCTV11
 rtp://239.93.0.102:5140
-#EXTINF:-1 group-title="中央",CCTV-12高清
+#EXTINF:-1 group-title="中央",CCTV12
 rtp://239.93.1.30:8124
-#EXTINF:-1 group-title="中央",CCTV-13高清
+#EXTINF:-1 group-title="中央",CCTV13
 rtp://239.93.0.66:5140
-#EXTINF:-1 group-title="中央",CCTV-14少儿高清
+#EXTINF:-1 group-title="中央",CCTV14
 rtp://239.93.1.29:6000
-#EXTINF:-1 group-title="中央",CCTV-15高清
+#EXTINF:-1 group-title="中央",CCTV15
 rtp://239.93.0.103:5140
-#EXTINF:-1 group-title="中央",CCTV16奥林匹克4K
+#EXTINF:-1 group-title="中央",CCTV16
 rtp://239.93.42.54:5140
-#EXTINF:-1 group-title="中央",CCTV-17高清
+#EXTINF:-1 group-title="中央",CCTV17
 rtp://239.93.0.92:5140
-#EXTINF:-1 group-title="中央",CETV-1高清
+#EXTINF:-1 group-title="中央",CETV1
 rtp://239.93.1.111:5140
-#EXTINF:-1 group-title="中央",CETV-2
+#EXTINF:-1 group-title="中央",CETV2
 rtp://239.93.0.113:5140
-#EXTINF:-1 group-title="中央",CETV-4
+#EXTINF:-1 group-title="中央",CETV4
 rtp://239.93.0.50:5140
 #EXTINF:-1 group-title="中央",CETV-4
 rtp://239.93.0.133:5140
