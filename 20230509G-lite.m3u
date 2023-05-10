@@ -181,8 +181,6 @@ rtp://239.93.0.176:5140
 rtp://239.93.0.192:5140
 #EXTINF:-1 group-title="地方",黑龙江卫视
 rtp://239.93.0.183:5140
-#EXTINF:-1 group-title="地方",海南卫视sd（重复可删）
-rtp://239.93.1.245:5140
 #EXTINF:-1 group-title="4K",4K乐享超清专区
 rtp://239.93.0.43:5140
 #EXTINF:-1 group-title="4K",4K超高清电影专区
